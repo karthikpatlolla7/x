@@ -48,7 +48,7 @@ class Linkedlist{
             int d=sc.nextInt();
             head=insert(d);
         }
-        print();
+        
         
     }
 
