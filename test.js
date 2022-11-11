@@ -3,7 +3,7 @@ class Db
 {
     show = ()=>
     {
-        return "hi"
+        return "bye";
     }
 }
 var obj = new Db()
